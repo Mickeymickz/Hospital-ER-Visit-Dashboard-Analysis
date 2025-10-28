@@ -12,9 +12,8 @@ In this project I analyzed and provided an analytical view of the emergency room
 
 ## 💡Key Insights: 
 
-1. Most common ER visit is for General Practice.
-2. White race population account for the highest admission rate.
-3. 
+- Most common ER visit is for General Practice.
+- White race population account for the highest admission rate. 
 
 
 ## 📊 Dashboard Preview:
@@ -22,22 +21,20 @@ In this project I analyzed and provided an analytical view of the emergency room
 
 ## 🚀 Business Outcomes:
 
-1. Enable healthcare administrators to improve operational efficiency and resource allocation
-2. Identify peak operational hours
+- Enable healthcare administrators to improve operational efficiency and resource allocation
+- Identify peak operational hours
 
 
 ## 🚧 Challenges: 
 
 Some challenges faced during the project:
-1. Dashboard layout: Balancing clarity and detail on one screen.
+- Dashboard layout: Balancing clarity and detail on one screen.
 
 
 ## 🧩 Next Steps: 
 
-1. Expand dashboard to include financial data.
-2. Integrate real-time hospital data for live analytics.
-2. Add **predictive modeling** to forecast ER volume using Python.
-3. Create a **Story mode** in Tableau showing patient flow across departments.
+- Expand dashboard to include financial data.
+- Integrate real-time hospital data for live analytics.
 
 
 ## 📁 Dataset Used:
@@ -46,6 +43,5 @@ Some challenges faced during the project:
 
 ## 🧑‍💻 Author
 
--- Name: Michael Essien
-
--- LinkedIn: www.linkedin.com/in/michael-essien  
+- Name: Michael Essien
+- LinkedIn: www.linkedin.com/in/michael-essien  
