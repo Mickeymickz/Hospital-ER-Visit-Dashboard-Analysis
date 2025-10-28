@@ -2,7 +2,7 @@
 
 ## 🔗 View Live Dashboard:
 
--- https://public.tableau.com/app/profile/michael.essien07/viz/HospitalEmergencyRoomVisitDashboard/Dashboard1
+- https://public.tableau.com/app/profile/michael.essien07/viz/HospitalEmergencyRoomVisitDashboard/Dashboard1
 
 
  ## 📘 Overview: 
