@@ -15,7 +15,7 @@ The goal of this project is to visualize patterns in ER visits to improve **oper
 
 ---
 
-💡** Key Insights: **
+## 💡** Key Insights: **
 
 1. Most common ER visit is for General Practice.
 2. White race population account for the highest admission rate.
@@ -23,12 +23,12 @@ The goal of this project is to visualize patterns in ER visits to improve **oper
 
 ---
 
-📊 ** Dashboard Preview: **
+## 📊 ** Dashboard Preview: **
 (./screenshots/dashboard_overview.png)
 
 ---
 
-🚀 ** Business Outcomes: ** 
+## 🚀 ** Business Outcomes: ** 
 
 1. Enable healthcare administrators to improve operational efficiency and resource allocation
 2. Identify peak operational hours
@@ -53,7 +53,7 @@ Some challenges faced during the project:
 
 ---
 
-** 📁 Dataset Used **
+## ** 📁 Dataset Used **
 - https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Hospital+ER.csv
 
 
