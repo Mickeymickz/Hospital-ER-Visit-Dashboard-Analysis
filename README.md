@@ -10,24 +10,24 @@
 In this project I analyzed and provided an analytical view of the emergency room (ER) visit for Mount Lebanon Hospital focusing on trends by patient race, reason for visit, time and patient satisfaction. The goal of this project is to visualize patterns in ER visits to improve **operational efficiency** and **resource allocation**.
 
 
-## 💡** Key Insights: **
+## 💡Key Insights: 
 
 1. Most common ER visit is for General Practice.
 2. White race population account for the highest admission rate.
 3. 
 
 
-## 📊 ** Dashboard Preview: **
+## 📊 Dashboard Preview:
 (./screenshots/dashboard_overview.png)
 
 
-## 🚀 ** Business Outcomes: ** 
+## 🚀 Business Outcomes:
 
 1. Enable healthcare administrators to improve operational efficiency and resource allocation
 2. Identify peak operational hours
 
 
-## 🚧 ** Challenges: **
+## 🚧 Challenges: 
 
 Some challenges faced during the project:
 1. Data cleaning:** Inconsistent patient categories and missing timestamps.
@@ -35,7 +35,7 @@ Some challenges faced during the project:
 3. Performance:** Optimizing Tableau filters for large data volumes.
 
 
-## ** 🧩 Next Steps: **
+## 🧩 Next Steps: 
 
 1. Expand dashboard to include financial data.
 2. Integrate real-time hospital data for live analytics.
