@@ -18,7 +18,7 @@ In this project I analyzed and provided an analytical view of the emergency room
 
 
 ## 📊 Dashboard Preview:
-(./screenshots/dashboard_overview.png)
+![Dashboard Overview] (./screenshots/dashboard_overview.png)
 
 
 ## 🚀 Business Outcomes:
