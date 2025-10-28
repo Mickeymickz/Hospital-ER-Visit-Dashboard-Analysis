@@ -60,4 +60,5 @@ Some challenges faced during the project:
 ## 🧑‍💻 Author
 
 -- Name: Michael Essien
+
 -- LinkedIn: www.linkedin.com/in/michael-essien  
