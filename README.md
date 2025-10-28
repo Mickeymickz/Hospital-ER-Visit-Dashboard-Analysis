@@ -29,9 +29,7 @@ In this project I analyzed and provided an analytical view of the emergency room
 ## 🚧 Challenges: 
 
 Some challenges faced during the project:
-1. Data cleaning:** Inconsistent patient categories and missing timestamps.
-2. Dashboard layout:** Balancing clarity and detail on one screen.
-3. Performance:** Optimizing Tableau filters for large data volumes.
+1. Dashboard layout: Balancing clarity and detail on one screen.
 
 
 ## 🧩 Next Steps: 
