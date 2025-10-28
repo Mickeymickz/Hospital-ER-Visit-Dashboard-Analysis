@@ -1,11 +1,11 @@
 # 🏥 Hospital Emergency Room Visit Dashboard Analysis 
 
-## 🔗 ** View Live Dashboard: **
+## 🔗 View Live Dashboard:
 
 -- https://public.tableau.com/app/profile/michael.essien07/viz/HospitalEmergencyRoomVisitDashboard/Dashboard1
 
 
- ## 📘 **Overview: **
+ ## 📘 Overview: 
 
 In this project I analyzed and provided an analytical view of the emergency room (ER) visit for Mount Lebanon Hospital focusing on trends by patient race, reason for visit, time and patient satisfaction. The goal of this project is to visualize patterns in ER visits to improve **operational efficiency** and **resource allocation**.
 
