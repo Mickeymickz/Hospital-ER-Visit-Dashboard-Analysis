@@ -18,9 +18,7 @@ In this project I analyzed and provided an analytical view of the emergency room
 
 
 ## 📊 Dashboard Preview:
-![Dashboard Overview]
-
-https://github.com/Mickeymickz/Hospital-ER-Visit-Dashboard-Analysis/blob/main/Hospital-ER-Visit-Dashboard-Analysis%3AScreenshots/Dasboard%20Overview.png
+![Dashboard Overview](https://github.com/Mickeymickz/Hospital-ER-Visit-Dashboard-Analysis/blob/main/Hospital-ER-Visit-Dashboard-Analysis%3AScreenshots/Dasboard%20Overview.png)
 
 ## 🚀 Business Outcomes:
 
