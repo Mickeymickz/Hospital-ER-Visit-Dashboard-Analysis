@@ -22,7 +22,7 @@ In this project I analyzed and provided an analytical view of the emergency room
 ## 🚀 Business Outcomes:
 
 - Enable healthcare administrators to improve operational efficiency and resource allocation
-- Identify peak operational hours
+- Identified peak operational hours
 
 
 ## 🚧 Challenges: 
