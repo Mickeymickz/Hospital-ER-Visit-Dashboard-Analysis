@@ -11,7 +11,6 @@ In this project I analyzed and provided an analytical view of the emergency room
 
 
 ## 💡Key Insights: 
-
 - Most common ER visit is for General Practice.
 - White race population account for the highest admission rate. 
 
@@ -20,9 +19,8 @@ In this project I analyzed and provided an analytical view of the emergency room
 ![Dashboard Overview](https://github.com/Mickeymickz/Hospital-ER-Visit-Dashboard-Analysis/blob/main/Hospital-ER-Visit-Dashboard-Analysis%3AScreenshots/Dasboard%20Overview.png)
 
 ## 🚀 Business Outcomes:
+- Improved patient-flow, optimized resource utilization and increased operational efficiency by developing a Tableau dashboard, analyzing peak hours for the administration team.
 
-- Enable healthcare administrators to improve operational efficiency and resource allocation
-- Identified peak operational hours
 
 
 ## 🚧 Challenges: 
@@ -32,7 +30,6 @@ Some challenges faced during the project:
 
 
 ## 🧩 Next Steps: 
-
 - Expand dashboard to include financial data.
 - Integrate real-time hospital data for live analytics.
 
@@ -42,6 +39,5 @@ Some challenges faced during the project:
 
 
 ## 🧑‍💻 Author
-
 - Name: Michael Essien
 - LinkedIn: www.linkedin.com/in/michael-essien  
