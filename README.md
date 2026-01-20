@@ -1,4 +1,4 @@
-# 🏥 Sample Medical Center Emergency Room Visit Dashboard Analysis 
+# 🏥 Sample Medical Center ER Visit Dashboard Analysis 
 
 ## 🔗 View Live Dashboard:
 
