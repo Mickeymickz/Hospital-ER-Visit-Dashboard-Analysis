@@ -16,9 +16,7 @@ In this project I analyzed and provided an analytical view of the emergency room
 
 
 ## 📊 Dashboard Preview:
-![Dashboard Overview](<img width="1168" height="668" alt="Screenshot 2026-01-20 at 2 24 37 PM" src="https://github.com/user-attachments/assets/a74a1796-2a67-4214-8dd1-f4eaa07b9cef" />)
-
-(https://github.com/Mickeymickz/Hospital-ER-Visit-Dashboard-Analysis/blob/main/Hospital-ER-Visit-Dashboard-Analysis%3AScreenshots/Dasboard%20Overview.png)
+![Dashboard Overview](https://github.com/Mickeymickz/Hospital-ER-Visit-Dashboard-Analysis/blob/main/Hospital-ER-Visit-Dashboard-Analysis%3AScreenshots/Dasboard%20Overview.png)
 
 ## 🚀 Business Outcomes:
 - Improved patient-flow, optimized resource utilization and increased operational efficiency by developing a Tableau dashboard, analyzing peak hours for the administration team.
