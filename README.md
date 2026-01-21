@@ -19,12 +19,12 @@ In this project I analyzed and provided an analytical view of the emergency room
 ![Dashboard Overview](https://github.com/Mickeymickz/Hospital-ER-Visit-Dashboard-Analysis/blob/main/Hospital-ER-Visit-Dashboard-Analysis%3AScreenshots/Dasboard%20Overview.png)
 
 ## 🚀 Business Outcomes:
-- Improved patient-flow, optimized resource utilization and increased operational efficiency by developing a Tableau dashboard, analyzing peak hours for the administration team.
-
+- Improved patient-flow, and increased operational efficiency by applying statistical analysis to detect correlation between patient wait-times and peak hours for the administration team.
+- Developed an interactive dashboard to visualize key metrics and provide actionable insights for the medical center’s optimization of resource utilization.
+- Performed demographic analysis to understand patients visits by race and referral type.
 
 
 ## 🚧 Challenges: 
-
 Some challenges faced during the project:
 - Dashboard layout: Balancing clarity and detail on one screen.
 
