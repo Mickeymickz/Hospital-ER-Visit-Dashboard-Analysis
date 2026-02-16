@@ -7,7 +7,7 @@
 
  ## 📘 Overview: 
 
-In this project I analyzed and provided an analytical view of the emergency room (ER) visit for Mount Lebanon Hospital focusing on trends by patient race, reason for visit, time and patient satisfaction. The goal of this project is to visualize patterns in ER visits to improve operational efficiency and resource allocation.
+In this project I analyzed and provided an analytical view of the emergency room (ER) visit for Sample Medical Center focusing on trends by patient race, reason for visit, time and patient satisfaction. The goal of this project is to visualize patterns in ER visits to improve operational efficiency and resource allocation.
 
 
 ## 💡Key Insights: 
